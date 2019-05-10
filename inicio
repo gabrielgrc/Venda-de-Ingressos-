@@ -1,7 +1,8 @@
 DATA PARA ENTREGA : 18/06
 
 1) Project defined process
-O processo que foi definfido para a realização do trabalho foi o Processo ágil de desenvolvimento de software (agile process).
+O processo que foi definfido para a realização do trabalho foi a metodologia SCRUM, no qual têm como características fornecer agilidade e a flexibilidade no desenvolvimento do projeto. Tem por
+finalidade definir um processo de desenvolvimento iterativo e incremental que pode ser aplicado a qualquer produto ou no gerenciamento de qualquer atividade complexa, proporcionando um excelente entrosamento entre as equipes de desenvolvimento.
 
 -Descrição do processo 
 (A descrição abaixo foi feita pelo professor, então alterar depois)
@@ -19,6 +20,8 @@ O Processo ágil de desenvolvimento de software possui alguns princípios, dentr
 .Simplicidade.
 .Equipes auto-organizadas.
 
+
+2)Plano de projeto
 Esta metodologia surgiu a partir da necessidade de minimizar riscos e custos ao desenvolvimento de software
 
 -Metodologias
@@ -26,7 +29,18 @@ Esta metodologia surgiu a partir da necessidade de minimizar riscos e custos ao 
 .Scrum para gestão e planejamento de projetos de software (metodologia ágil)
 -OpenUp para documentação
 
-
 ##Início - 10/05/2019 
-#Semana 1 (10 a 17/05)
+#Semana 1 (10 a 17/05)	
+	-Distribuição de tarefas;
+	-Plano de ação para o início do projeto;
+	-Levantamento de requisitos;
+	-Descrição do processo definido para o projeto	
+	-Decisão dos artefatos que serão utilizados para a implementação do projeto;
 
+#Semana 2 (18 a 25/05)
+
+#Semana 3 (26 a 02/06)
+
+#Semana 4 (03/06 a 10/06)
+
+#Semana 5 (11/06 a 18/06)
