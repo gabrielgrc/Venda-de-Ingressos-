@@ -1,17 +1,4 @@
 3-Planos de iterações (iteraction plan)
-Na metodologia ágil, os planos de iterações são os sprints 
-
-Como funciona e como realizar os sprints :
-
-Scrum é uma metodologia ágil para gestão e planejamento de projetos de software.
-
-No Scrum, os projetos são dividos em ciclos (tipicamente mensais) chamados de Sprints. O Sprint representa um Time Box dentro do qual um conjunto de atividades deve ser executado. Metodologias ágeis de desenvolvimento de software são iterativas, ou seja, o trabalho é dividido em iterações, que são chamadas de Sprints no caso do Scrum.
-
-As funcionalidades a serem implementadas em um projeto são mantidas em uma lista que é conhecida como Product Backlog. No início de cada Sprint, faz-se um Sprint Planning Meeting, ou seja, uma reunião de planejamento na qual o Product Owner prioriza os itens do Product Backlog e a equipe seleciona as atividades que ela será capaz de implementar durante o Sprint que se inicia. As tarefas alocadas em um Sprint são transferidas do Product Backlog para o Sprint Backlog.
-
-A cada dia de uma Sprint, a equipe faz uma breve reunião (normalmente de manhã), chamada Daily Scrum. O objetivo é disseminar conhecimento sobre o que foi feito no dia anterior, identificar impedimentos e priorizar o trabalho do dia que se inicia.
-
-Ao final de um Sprint, a equipe apresenta as funcionalidades implementadas em uma Sprint Review Meeting. Finalmente, faz-se uma Sprint Retrospective e a equipe parte para o planejamento do próximo Sprint. Assim reinicia-se o ciclo.
 
 								Prática  
 				Sprint mensal (início dia 10/05/2019 e este terá uma duração de ...)
@@ -24,8 +11,17 @@ Time box de atividades que devem ser realizadas neste período são as seguintes
 
 Sprint 1 (15 de maio de 2019 - 16 de maio de 2019) : 
 Sprint Planning Meeting : Fazer o Product Backlog e iniciar a implementação
+Sprint Review Meeting : A equipe apresentou os seguintes resultados
+Gabriel Carneiro : Finalizou o Product Backlog (funcionalidades a serem implementadas em um projeto).
+Gabriel Morais : Finalizou as funcionalidades básicas de autenticação e login.
+Sprint Retrospective : Para o dia seguinte, foram postas como prioridades a descrição do processo definido para o projeto e a construção de tabelas 
 (amanhã será feita a Daily Scrum e a Sprint Retrospective)
 
+Sprint 2 (16 de maio de 2019 - 17 de maio de 2019) 
+Daily Meeting : Os objetivos traçados no dia anterior foram satisfatórios e cumpridos, portanto não há pendências do dia anterior e portanto não haverá impedimentos para o novo Sprint.
+Sprint Planning Meeting : Na reunião deste dia, os objetivos de cada membro são os seguintes :
+Gabriel Carneiro : descrever o processo definido para o projeto
+Gabriel Morais : Iniciar a construção de tabelas
 
 
 	Product Backlog (funcionalidades a serem implementadas em um projeto)

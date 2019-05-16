@@ -1,21 +1,30 @@
 DATA PARA ENTREGA : 18/06
 
+Desenvolvedores : Gabriel Ribeiro Carneiro - Product Owner
+		  Gabriel Morais...(por o nome todo)
+
+
 1) Project defined process
-O processo que foi definfido para a realização do trabalho foi a metodologia SCRUM, no qual têm como características fornecer agilidade e a flexibilidade no desenvolvimento do projeto. Tem por
-finalidade no processo de desenvolvimento contar com atividades iterativas e incrementais que podem ser aplicadas a qualquer produto ou no gerenciamento de qualquer atividade complexa, gerando um excelente entrosamento entre as equipes de desenvolvimento.
+O processo que foi definido para o desenvolimento deste trabalho foi um processo de desenvolvimento iterativo e incremental, em prol de ocasionar entrosamento entre os desenvolvedores do projeto. Este será baseado na metodologia SCRUM, que é uma metodologia ágil de desenvolvimento.
 
--Descrição do processo 
-(A descrição abaixo foi feita pelo professor, então alterar depois)
-O Processo ágil de desenvolvimento de software possui alguns princípios, dentre alguns estão:
+O desenvolvimento funcionará da seguinte maneira : 
 
-.Entrega rápida e frequente de software.
-.Abertura a modificações e capacidade de adaptação.
-.Principal medida de progresso é software operacional.
-.Capacidade de manter ritmo estável de desenvolvimento.
-.Próxima cooperação entre pessoal do negócio e desenvolvedores.
-.Conversa face a face.
-.Projetos desenvolvidos por indivíduos motivados.
-.Crença nos responsáveis pelo projeto.
-.Contínua atenção à excelência técnica e ao bom projeto.
-.Simplicidade.
-.Equipes auto-organizadas.
+Na metodologia ágil, os planos de iterações são os chamados Sprints. Para este projeto, haverá um Sprint mensal no qual haverá uma TimeBox que conterá um conjunto de atividades que devem ser executadas neste período.
+
+Ao iniciar um Sprint ocorrerá uma Sprint Planning Meeting, sendo esta uma reunião de planejamento na qual o Product Owner prioriza os itens do Product Backlog e a equipe seleciona as atividades que ela será capaz de implementar durante o Sprint que se inicia.
+Obs : as atividades que serão realizadas são as presentes no 
+Product Backlog, e que ao início de cada Sprint serão priorizadas pelo Product Owner.
+
+Todos os dias ocorrerá uma breve reunião, sendo esta chamada de Daily Scrum, cujo objetivo é discutir o que foi feito no dia anterior, identificar impedimentos/entraves e priorizar o trabalho do dia que se inicia.
+
+Ao fim de um Sprint ocorrerá a chamada Sprint Review Meeting, e nesta etapa a equipe apresenta as funcionalidades implementadas durante o Sprint. 
+
+Por último ocorre a chamada Sprint Retrospective, cujo objetivo é a equipe realizar o planejamento para o próximo Sprint.
+
+Após a Sprint Retrospective, temos o início do ciclo novamente.
+
+
+
+
+
+
