@@ -1,0 +1,108 @@
+4) Documento de visão (vision)
+
+Documento de visão e escopo:
+• Descreve resumidamente o problema a ser resolvido.
+• Escopo do trabalho e objetivos.
+• Visão geral do sistema de software.
+• Pessoal e custos.
+• Duração esperada.
+
+			Documento de visão
+
+			(Nome do trabalho)
+
+1.Intodução
+O presente documento têm como finalidade ser o documento de visão para o trabalho da disciplina de Engenharia de Software, tendo como conteúdos 
+.Descrição resumida do problema a ser resolvido
+Ou seja, o que necessita ser solucionado pelo artafato que está sendo desenvolvido 
+.Escopo do trabalho e seus objetivos
+Identificar dos impactos que serão causados por este projeto
+.Visão geral do sistema de software
+Perspectiva a respeito do produto, ou seja, descrição das principais finalidades para as quais o sistema servirá
+.Pessoal e custos
+---------
+dúvida do que escrever neste tópico
+.Duração esperada 
+Descrição do tempo que será gasto durante o desenvolvimento do artefato
+
+2.Visão geral do produto
+Perspectiva do produto : (principais propósitos para os quais o sistema servirá)
+O produto em questão têm como finalidade prover suporte à venda de ingressos em uma organização promotora de eventos. Esta organização promotora de eventos dispõe ingressos para algumas classes de eventos, sendo estas : Teatro, Esporte, Show nacional e Show internacional. 	
+
+Product Backlog (funcionalidades a serem implementadas em um projeto)
+
+As funcionalidades que o sistema de software em questão terá são :
+-Vendas de ingressos para as seguintes classes de evento :
+.Teatro
+.esporte
+.show nacional
+.show internacional
+
+-Os usuários poderão obter dados sobre os eventos programados
+
+-Para acessar estes dados, o usuário terá:
+.data de início e término de período
+.nome da cidade
+.sigla do Estado aonde ocorrerá o evento
+
+-O sistema, quando consultado, deverá fornecer os seguintes dados sobre cada evento :
+.nome do evento
+.código de cada apresentação
+.data de cada apresentação
+.horário de cada apresentação
+.preço do ingresso de cada apresentação
+.número da sala de cada apresentação
+.quantidade de ingressos disponíveis para cada apresentação
+.classe e faixa etária para cada evento
+
+-Um usuário pode:
+.comprar ingresso
+.cadastrar e editar evento
+Obs : para isso precisa se cadastrar e depois ser autenticado informando CPF e senha.
+
+-Para se cadastrar, o usuério terá que:
+.informar CPF
+.informar senha
+.e os seguintes dados de cartão de crédito : número, código de segurança e data de validade
+
+-para adiquirir ingressos, o usuário deve informar : 
+.código de apresentação e a quantidade de ingressos desejada 
+Obs: Se houver a quantidade de ingressos desejada, o sistema lista os códigos dos ingressos vendidos e atualiza a quantidade de ingressos disponíveis para a apresentação.
+
+-Já autenticado, o usuário tem acesso aos seguintes serviços providos pelo sistema :
+.Cadastrar
+.Descadastrar
+.Alterar evento
+
+-Para cadastrar um evento, o usuário deve informar os seguintes dados associados ao evento:
+.código do evento
+.nome do evento
+.código de cada apresentação
+.data de cada apresentação
+.horário de cada apresentação
+.preço do ingresso de cada apresentação
+.código da sala de cada apresentação
+.cidade
+.estado
+.classe
+.faixa etária do evento
+
+Obs1 : O usuário que cadastrar um evento é responsável pelo evento e só ele pode alterar ou descadastrar o evento
+Obs2 : Um evento não pode ser alterado ou descadastrado se já foi vendido ingresso para alguma das suas apresentações.
+Obs3 : Quando um evento é descadastrado, os dados do evento, assim como os dados de suas apresentações, são excluídos do sistema
+
+-O responsável por um evento pode solicitar informação sobre vendas do evento
+Obs : Nesse caso, o sistema lista, para cada apresentação do evento, a quantidade total de ingressos vendidos e o CPF de cada comprador de ingresso.
+
+-Cada usuário pode se descadastrar do sistema quando achar conveniente
+Obs1 : Entretanto, o descadastramento de um usuário não é realizado se o usuário for responsável por evento que ainda esteja cadastrado.
+Obs2:Quando ocorre o descadastramento de um usuário, os dados do usuário são excluídos do sistema
+
+-Cada usuário pode ser responsável por até cinco eventos
+
+-Cada evento cadastrado pode ter até dez apresentações associadas
+
+ 
+
+
+

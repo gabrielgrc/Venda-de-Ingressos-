@@ -14,88 +14,21 @@ Sprint Planning Meeting : Fazer o Product Backlog e iniciar a implementação
 Sprint Review Meeting : A equipe apresentou os seguintes resultados
 Gabriel Carneiro : Finalizou o Product Backlog (funcionalidades a serem implementadas em um projeto).
 Gabriel Morais : Finalizou as funcionalidades básicas de autenticação e login.
-Sprint Retrospective : Para o dia seguinte, foram postas como prioridades a descrição do processo definido para o projeto e a construção de tabelas 
-(amanhã será feita a Daily Scrum e a Sprint Retrospective)
+Sprint Retrospective : Para o dia seguinte, foram postas como prioridades a descrição do processo definido para o projeto e a modelagem do banco de dados, analisar como cada tabela vai ser, relacionamentos, campos, chaves primárias e etc(amanhã será feita a Daily Scrum e a Sprint Retrospective).
 
 Sprint 2 (16 de maio de 2019 - 17 de maio de 2019) 
 Daily Meeting : Os objetivos traçados no dia anterior foram satisfatórios e cumpridos, portanto não há pendências do dia anterior e portanto não haverá impedimentos para o novo Sprint.
 Sprint Planning Meeting : Na reunião deste dia, os objetivos de cada membro são os seguintes :
-Gabriel Carneiro : descrever o processo definido para o projeto
-Gabriel Morais : Iniciar a construção de tabelas
+Gabriel Carneiro : descrever o processo definido para o projeto.
+Gabriel Morais : modelagem do banco de dados, ver como cada tabela vai ser, relacionamentos, campos, chaves primárias e etc.
+Sprint Retrospective : Para o dia seguinte, foram postas como prioridades : 
+Gabriel Morais : o início da modelagem do banco de dados, analisar como cada tabela vai ser, relacionamentos, campos, chaves primárias e etc
+Gabriel Carneiro : Início do Documento de visão (vision)
 
-
-	Product Backlog (funcionalidades a serem implementadas em um projeto)
-
-Objetivo : prover suporte à venda de ingressos em uma organização promotora de eventos.
-As funcionalidades que o sistema de software em questão terá são :
--Vendas de ingressos para as seguintes classes de evento :
-.Teatro
-.esporte
-.show nacional
-.show internacional
-
--Os usuários poderão obter dados sobre os eventos programados
-
--Para acessar estes dados, o usuário terá:
-.data de início e término de período
-.nome da cidade
-.sigla do Estado aonde ocorrerá o evento
-
--O sistema, quando consultado, deverá fornecer os seguintes dados sobre cada evento :
-.nome do evento
-.código de cada apresentação
-.data de cada apresentação
-.horário de cada apresentação
-.preço do ingresso de cada apresentação
-.número da sala de cada apresentação
-.quantidade de ingressos disponíveis para cada apresentação
-.classe e faixa etária para cada evento
-
--Um usuário pode:
-.comprar ingresso
-.cadastrar e editar evento
-Obs : para isso precisa se cadastrar e depois ser autenticado informando CPF e senha.
-
--Para se cadastrar, o usuério terá que:
-.informar CPF
-.informar senha
-.e os seguintes dados de cartão de crédito : número, código de segurança e data de validade
-
--para adiquirir ingressos, o usuário deve informar : 
-.código de apresentação e a quantidade de ingressos desejada 
-Obs: Se houver a quantidade de ingressos desejada, o sistema lista os códigos dos ingressos vendidos e atualiza a quantidade de ingressos disponíveis para a apresentação.
-
--Já autenticado, o usuário tem acesso aos seguintes serviços providos pelo sistema :
-.Cadastrar
-.Descadastrar
-.Alterar evento
-
--Para cadastrar um evento, o usuério deve informar os seguintes dados associados ao evento:
-.código do evento
-.nome do evento
-.código de cada apresentação
-.data de cada apresentação
-.horário de cada apresentação
-.preço do ingresso de cada apresentação
-.código da sala de cada apresentação
-.cidade
-.estado
-.classe
-.faixa etária do evento
-
-Obs1 : O usuário que cadastrar um evento é responsável pelo evento e só ele pode alterar ou descadastrar o evento
-Obs2 : Um evento não pode ser alterado ou descadastrado se já foi vendido ingresso para alguma das suas apresentações.
-Obs3 : Quando um evento é descadastrado, os dados do evento, assim como os dados de suas apresentações, são excluídos do sistema
-
--O responsável por um evento pode solicitar informação sobre vendas do evento
-Obs : Nesse caso, o sistema lista, para cada apresentação do evento, a quantidade total de ingressos vendidos e o CPF de cada comprador de ingresso.
-
--Cada usuário pode se descadastrar do sistema quando achar conveniente
-Obs1 : Entretanto, o descadastramento de um usuário não é realizado se o usuário for responsável por evento que ainda esteja cadastrado.
-Obs2:Quando ocorre o descadastramento de um usuário, os dados do usuário são excluídos do sistema
-
--Cada usuário pode ser responsável por até cinco eventos
-
--Cada evento cadastrado pode ter até dez apresentações associadas
+Sprint 3 (18 de maio de 2019 - 19 de maio de 2019)
+Daily Meeting : Dentre os objetivos traçados na Sprint Planning Meeting do dia anterior foi alcançado apenas o objetivo da Descrição do Plano de Projeto, tornando pendente o início da tarefa da Modelagem do banco de dados.
+Sprint Planning Meeting : Na reunião deste dia, os objetivos de cada membro são os seguintes :
+Gabriel Carneiro : Iniciar o dodumento de visão (vision).
+Gabriel Morais : Tarefa pendente do Sprint anterior, ou seja, modelagem do banco de dados, ver como cada tabela vai ser, relacionamentos, campos, chaves primárias e etc.
 
  
