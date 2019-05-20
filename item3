@@ -30,5 +30,15 @@ Daily Meeting : Dentre os objetivos traçados na Sprint Planning Meeting do dia 
 Sprint Planning Meeting : Na reunião deste dia, os objetivos de cada membro são os seguintes :
 Gabriel Carneiro : Iniciar o dodumento de visão (vision).
 Gabriel Morais : Tarefa pendente do Sprint anterior, ou seja, modelagem do banco de dados, ver como cada tabela vai ser, relacionamentos, campos, chaves primárias e etc.
+Sprint Retrospective : Para o dia seguinte, foram postas como prioridades :
+Gabriel Morais : Refazer a modelagem do problema, por julgar que o conteúdo feito não estava bom.
+Gabriel Carneiro : continuar o desenvolvimento do Documento de visão (Vision).
 
- 
+Sprint 4 (19 de maio de 2019 - 20 de maio de 2019)
+Daily Meeting : O objetivo de iniciar o documento de visão foi concluído, porém a tarefa de modelagem do banco de dados terá que ser reiniciada.
+Sprint Planning Meeting : Na reunião deste dia, os objetivos de cada membro são os seguintes :
+Gabriel Carneiro : Continuar o desenvolvimento do Documento de visão do projeto.
+Gabriel Morais : Reiniciar a tarefa da modelagem do banco de dados e criar o banco de dados.
+Sprint retrospective : Para o dia seguinte, foram postas como prioridades :
+Gabriel Morais : ...
+Gabriel Carneiro : Finalizar o documento de visão do projeto.
