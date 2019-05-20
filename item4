@@ -60,7 +60,7 @@ As funcionalidades que o sistema de software em questão terá são :
 .cadastrar e editar evento
 Obs : para isso precisa se cadastrar e depois ser autenticado informando CPF e senha.
 
--Para se cadastrar, o usuério terá que:
+-Para se cadastrar, o usuário terá que:
 .informar CPF
 .informar senha
 .e os seguintes dados de cartão de crédito : número, código de segurança e data de validade
@@ -104,12 +104,29 @@ Obs2:Quando ocorre o descadastramento de um usuário, os dados do usuário são 
 
  3.Escopo do Projeto
 Gerenciamento do escopo : 
-
+Este projeto terá como componentes (fazer depois) 
+------------------------------------------------------------------
 Coleta de requisitos
+As funcionalidades que o projeto terá são :
+-Vendas de ingressos para determinadas classes de eventos;
+-Fornecer dados sobre os eventos programados;
+-Permitir que um usuário compre, cadastre e edite/altere um evento
+-Ter um sistema que fornaça : cadastro, descadastro e autenticação dos usuários.
+
+
 
 segundo as melhores práticas do Guia PMBOK®:
 
     planejar o gerenciamento do escopo: documentar como o escopo será definido, validado e controlado;
+---------------------------------------------------
+O planejamento do escopo do projeto é feito através do processo chamado plano de gerenciamento do escopo.
+
+Para determinar qual é o escopo do projeto, existe muito planejamento do escopo. Para isso, tanto o gerente quanto a equipe precisam ter uma visão unificada sobre quais são os componentes do projeto, dos seus requisitos, da expectativa dos stakeholders (parte interessada) do projeto, e de onde o projeto se encaixa na necessidade de negócio destes stakeholders.
+
+O resultado dos processos de planejamento de escopo é a declaração de escopo. A declaração de escopo diz o que está dentro e o que está fora do projeto, de maneira clara e sem ambigüidades.
+
+É importante que a declaração de escopo seja bem-feita, e que haja acordo sobre ela. Quando a declaração de escopo estiver pronta, a equipe do projeto, os stakeholders, o patrocinador do projeto e o gerente de projetos não deverão mudar o escopo – a menos que haja um motivo muito forte que justifique essa mudança (que quase certamente implica impactos no custo do projeto). 
+-------------------------------------------------------------
     coletar os requisitos: definir e documentar as necessidades das partes interessadas para atingir os objetivos do projeto;
     definir o escopo: realizar uma descrição detalhada do projeto e do produto;
     criar a Estrutura Analítica do projeto (EAP): subdividir os produtos e o trabalho em componentes mais gerenciáveis;
