@@ -103,47 +103,30 @@ Obs2:Quando ocorre o descadastramento de um usuário, os dados do usuário são 
 -Cada evento cadastrado pode ter até dez apresentações associadas
 
  3.Escopo do Projeto
-Gerenciamento do escopo : 
-Este projeto terá como componentes (fazer depois) 
+Para a descrição do escopo deste projeto será utilizado as melhores práticas do Guia PMBOK® para descrição do escopo, sendo: 
+
+.planejar o gerenciamento do escopo: documentar como o escopo será definido, validado e controlado;
+.coletar os requisitos: definir e documentar as necessidades das partes interessadas para atingir os objetivos do projeto;
+.definir o escopo: realizar uma descrição detalhada do projeto e do produto;
+.criar a Estrutura Analítica do projeto (EAP): subdividir os produtos e o trabalho em componentes mais gerenciáveis;
+.validar o escopo: formalizar a aceitação dos produtos do projeto;
+.controlar o escopo: monitorar o escopo e gerenciar alterações na linha de base do escopo.
+
+1-Gerenciamento do escopo : (definir como algo será executado, ou seja, como o projeto será realizado)
+Este projeto terá dois membros em seu desenvolvimento, sendo estes Gabriel Ribeiro Carneiro(Product Owner) e Gabriel Morais. Ambos terão funções diferentes no desenvolvimento do trabalho, sendo o membro Gabriel Ribeiro Carneiro responsável por toda a parte de documentação do projeto e o membro Gabriel Morais responsável pela parte de implementação do projeto.    
 ------------------------------------------------------------------
-Coleta de requisitos
-As funcionalidades que o projeto terá são :
+2-Coleta de requisitos
+Para este projeto a parte interessada necessita de um sistema que realize a venda de ingressos para determinadas classes de evento para seus usuários, portanto o sistema terá que conter como funcionalidades obrigatórias para que o(s) stakeholder(s) seja(m) satisfeito(s) : 
+
 -Vendas de ingressos para determinadas classes de eventos;
 -Fornecer dados sobre os eventos programados;
 -Permitir que um usuário compre, cadastre e edite/altere um evento
 -Ter um sistema que fornaça : cadastro, descadastro e autenticação dos usuários.
 
+Definir o escopo (realizar uma descrição detalhada do projeto e do produto;)
+O projeto 
 
 
-segundo as melhores práticas do Guia PMBOK®:
-
-    planejar o gerenciamento do escopo: documentar como o escopo será definido, validado e controlado;
----------------------------------------------------
-O planejamento do escopo do projeto é feito através do processo chamado plano de gerenciamento do escopo.
-
-Para determinar qual é o escopo do projeto, existe muito planejamento do escopo. Para isso, tanto o gerente quanto a equipe precisam ter uma visão unificada sobre quais são os componentes do projeto, dos seus requisitos, da expectativa dos stakeholders (parte interessada) do projeto, e de onde o projeto se encaixa na necessidade de negócio destes stakeholders.
-
-O resultado dos processos de planejamento de escopo é a declaração de escopo. A declaração de escopo diz o que está dentro e o que está fora do projeto, de maneira clara e sem ambigüidades.
-
-É importante que a declaração de escopo seja bem-feita, e que haja acordo sobre ela. Quando a declaração de escopo estiver pronta, a equipe do projeto, os stakeholders, o patrocinador do projeto e o gerente de projetos não deverão mudar o escopo – a menos que haja um motivo muito forte que justifique essa mudança (que quase certamente implica impactos no custo do projeto). 
--------------------------------------------------------------
-    coletar os requisitos: definir e documentar as necessidades das partes interessadas para atingir os objetivos do projeto;
-    definir o escopo: realizar uma descrição detalhada do projeto e do produto;
-    criar a Estrutura Analítica do projeto (EAP): subdividir os produtos e o trabalho em componentes mais gerenciáveis;
-    validar o escopo: formalizar a aceitação dos produtos do projeto;
-    controlar o escopo: monitorar o escopo e gerenciar alterações na linha de base do escopo.
-
-
----------------------------------------------------------
-Para isso, o desenvolvimento de um plano de gerenciamento do escopo do projeto deve abranger os seguintes processos, segundo as melhores práticas do Guia PMBOK®:
-
-    planejar o gerenciamento do escopo: documentar como o escopo será definido, validado e controlado;
-    coletar os requisitos: definir e documentar as necessidades das partes interessadas para atingir os objetivos do projeto;
-    definir o escopo: realizar uma descrição detalhada do projeto e do produto;
-    criar a Estrutura Analítica do projeto (EAP): subdividir os produtos e o trabalho em componentes mais gerenciáveis;
-    validar o escopo: formalizar a aceitação dos produtos do projeto;
-    controlar o escopo: monitorar o escopo e gerenciar alterações na linha de base do escopo.
----------------------------------------------------------
 
 
 
