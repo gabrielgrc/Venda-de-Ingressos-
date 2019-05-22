@@ -116,7 +116,7 @@ Para a descrição do escopo deste projeto será utilizado as melhores práticas
 Este projeto terá dois membros em seu desenvolvimento, sendo estes Gabriel Ribeiro Carneiro(Product Owner) e Gabriel Morais. Ambos terão funções diferentes no desenvolvimento do trabalho, sendo o membro Gabriel Ribeiro Carneiro responsável por toda a parte de documentação do projeto e o membro Gabriel Morais responsável pela parte de implementação do projeto.    
 ------------------------------------------------------------------
 2-Coleta de requisitos
-Para este projeto a parte interessada necessita de um sistema que realize a venda de ingressos para determinadas classes de evento para seus usuários, portanto o sistema terá que conter como funcionalidades obrigatórias para que o(s) stakeholder(s) seja(m) satisfeito(s) : 
+Para este projeto a parte interessada necessita de um sistema que realize a venda de ingressos para determinadas classes de evento para seus usuários, portanto o sistema terá que conter como funcionalidades obrigatórias para que a organização promotora de eventos (stakeholder) seja satisfeita : 
 
 -Vendas de ingressos para determinadas classes de eventos;
 -Fornecer dados sobre os eventos programados;
@@ -124,7 +124,7 @@ Para este projeto a parte interessada necessita de um sistema que realize a vend
 -Ter um sistema que fornaça : cadastro, descadastro e autenticação dos usuários.
 
 Definir o escopo (realizar uma descrição detalhada do projeto e do produto;)
-O projeto 
+O projeto têm como suas  
 
 
 
