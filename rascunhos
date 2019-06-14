@@ -14,3 +14,16 @@ O resultado dos processos de planejamento de escopo é a declaração de escopo.
     criar a Estrutura Analítica do projeto (EAP): subdividir os produtos e o trabalho em componentes mais gerenciáveis;
     validar o escopo: formalizar a aceitação dos produtos do projeto;
     controlar o escopo: monitorar o escopo e gerenciar alterações na linha de base do escopo.
+------------------------------------
+lINK para o artigo : https://www.culturaagil.com.br/estoria-de-usuario-voce-saberia-contar/ 
+
+Uma estória de usuário pode ser caracterizada como uma curta e simples descrição da necessidade do cliente, não será uma surpresa encontrá-las em metodologias ágeis como SCRUM e XP. Ela normalmente é contada a partir da perspectiva de quem precisa da nova necessidade, sendo geralmente um usuário, cliente do sistema ou representante de negócios do cliente. Uma estória de usuário deve explicar bem para quem, o que e por que está sendo criada. Isso é importante, principalmente, para desenvolvedores que poderão construir softwares com menor dificuldade e maior qualidade, entendendo os objetivos e necessidades do cliente de forma mais rápida. É normal escrever uma estória de usuário em post-it’s, fichas ou notas. Elas podem ser coladas em paredes ou mesas para facilitar o planejamento e discussão. Aliás, as discussões são mais importantes do que qualquer texto que estará escrito.
+
+Criando estória
+
+COMO/SENDO <QUEM>, EU QUERO/GOSTARIA/DEVO/POSSO <O QUE>, PARA QUE/DE/PARA <PORQUE/RESULTADO>.
+
+Exemplo 1 – Consultar cliente pelo CNPJ
+
+SENDO um vendedor EU QUERO consultar os meus clientes pelo CNPJ PARA conseguir negociar com ele estando melhor informado.
+

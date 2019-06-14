@@ -7,4 +7,13 @@ para realizar a implementação do sistema proposta foi utilizada a Linguagem de
 para realizar a decrição dos artefatos foi utilizada uma plataforma de escrita colaborativa chamada Overleaf. Esta plataforma permite criar, editar e compartilhar documentos online utilizando Latex, para assim produzir um conteúdo acadêmico de boa qualidade.
 A exceção se encontra no item 4, no qual utilizou-se um modelo de arquivo cuja extensão é .dot
 
+.Relacionados à comunicação
+para os membros do projeto se comunicarem de forma não presencial foi utilizado o aplicativo WhatsApp
+
+.Relacionados ao acompanhamento/realização das tarefas
+Para serem realizadas as Sprints da metodologia Scrum foi utilizado um aplicativo de gerenciamento de projeto chamado Trello
+
+.Relacionados à hospedagem de código-fonte
+Para hospedar o código-fonte para a implementação foi utilizada a plataforma GitHub, com controle de versão usando Git.
+
 

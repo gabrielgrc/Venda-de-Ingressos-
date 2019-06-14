@@ -1,13 +1,16 @@
-lINK para o artigo : https://www.culturaagil.com.br/estoria-de-usuario-voce-saberia-contar/ 
+SENDO uma organização promotora de eventos EU QUERO ter um sistema PARA realizar a venda de ingressos para os meus eventos.
 
-Uma estória de usuário pode ser caracterizada como uma curta e simples descrição da necessidade do cliente, não será uma surpresa encontrá-las em metodologias ágeis como SCRUM e XP. Ela normalmente é contada a partir da perspectiva de quem precisa da nova necessidade, sendo geralmente um usuário, cliente do sistema ou representante de negócios do cliente. Uma estória de usuário deve explicar bem para quem, o que e por que está sendo criada. Isso é importante, principalmente, para desenvolvedores que poderão construir softwares com menor dificuldade e maior qualidade, entendendo os objetivos e necessidades do cliente de forma mais rápida. É normal escrever uma estória de usuário em post-it’s, fichas ou notas. Elas podem ser coladas em paredes ou mesas para facilitar o planejamento e discussão. Aliás, as discussões são mais importantes do que qualquer texto que estará escrito.
+Eu como USUÁRIO quero me cadastrar NO_SISTEMA para poder realizar a compra de ingressos.  
 
-Criando estória
+Eu como USUÁRIO quero realizar a compra de INGRESSO pelo sistema para não haver necessidade de locomoção para adiquirí-lo. 
 
-COMO/SENDO <QUEM>, EU QUERO/GOSTARIA/DEVO/POSSO <O QUE>, PARA QUE/DE/PARA <PORQUE/RESULTADO>.
+EU como USUÁRIO quero descadastrar um EVENTO para casos de arrependimento.
 
-Exemplo 1 – Consultar cliente pelo CNPJ
+EU como USUÁRIO quero poder fazer uma busca de um EVENTO pelo NOME_DA_CIDADE e pela SIGLA_DO_ESTADO para tomar conhecimento se este ocorrerá na minha cidade.
 
-SENDO um vendedor EU QUERO consultar os meus clientes pelo CNPJ PARA conseguir negociar com ele estando melhor informado.
----------------------------------------------------------------
-SENDO uma organização promotora de eventos EU QUERO ter um sistema que  PARA realizar a venda de ingressos para os meus eventos.
+EU como USUÁRIO quero poder fazer uma busca de um EVENTO pelo NOME_DO_EVENTO para facilitar a minha pesquisa.
+
+EU como USUÁRIO quero poder fazer uma busca de um EVENTO pela DATA_DE_REALIZACAO  para facilitar a minha pesquisa.
+
+EU como RESPONSÁVEL_PELO_EVENTO quero solicitar informação sobre vendas do EVENTO para saber sobre a quantidade de ingressos vendidas.
+ 
